@@ -124,7 +124,7 @@ Power Automate Application lifecycle management (ALM):
 
 %
 
-Design and test in non-production environments, promote to production when ready
+- Design and test in non-production environments, promote to production when ready
 
 ##
 
