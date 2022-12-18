@@ -1,4 +1,4 @@
-# asa55 Azure Functions Docs
+# asa55 Docs as Flashcards::Azure::Functions
 
 ##
 
