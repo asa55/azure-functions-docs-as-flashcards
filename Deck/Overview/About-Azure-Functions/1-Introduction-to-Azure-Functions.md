@@ -16,11 +16,11 @@ the rest
 
 ##
 
-We often build systems to react to a series of critical events. Whether you're building a web API, responding to database changes, processing IoT data streams, or even managing message queues - every application needs a way to run some code as these events
+We often build systems to react to a series of critical `_____`. Whether you're building a web API, responding to database changes, processing IoT data streams, or even managing message queues - every application needs a way to run some code as these `_____` occur
 
 %
 
-occur
+We often build systems to react to a series of critical **events**. Whether you're building a web API, responding to database changes, processing IoT data streams, or even managing message queues - every application needs a way to run some code as these **events** occur
 
 ##
 

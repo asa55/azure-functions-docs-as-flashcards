@@ -226,98 +226,91 @@ personal preference
 
 ##
 
-Durable Functions development:
-
-- `_____`
+Durable Functions development is code-first, aka
 
 %
 
-- Code-first (imperative)
+imperative
 
 ##
 
-Logic Apps development:
-
-- `_____`
+Logic Apps development is designer-first, aka
 
 %
 
-- Designer-first (declarative)
+declarative
 
 ##
 
 Durable Functions connectivity:
 
-- `_____`
-- `_____`
+- About a dozen built-in `_____` types
+- write code for custom `_____`
 
 %
 
-- About a dozen built-in binding types
-- write code for custom bindings
+- About a dozen built-in **binding** types
+- write code for custom **bindings**
 
 ##
 
 Logic Apps connectivity:
 
-- `_____`
-- `_____`
-- `_____`
+- Large collection of `_____`
+- Enterprise Integration Pack for `_____` scenarios
+- build custom `_____`
 
 %
 
-- Large collection of connectors
-- Enterprise Integration Pack for B2B scenarios
-- build custom connectors
+- Large collection of **connectors**
+- Enterprise Integration Pack for **B2B** scenarios
+- build custom **connectors**
 
 ##
 
 Durable Functions actions:
 
-- `_____`
-- `_____`
+- Each `_____` is an Azure function
+- write code for `_____` functions
 
 %
 
-- Each activity is an Azure function
-- write code for activity functions
+- Each **activity** is an Azure function
+- write code for **activity** functions
 
 ##
 
-Logic Apps actions:
-
-- `_____`
+Logic Apps offer a large collection of ready-made
 
 %
 
-- Large collection of ready-made actions
+actions
 
 ##
 
-Durable Functions monitoring:
-
-- `_____`
+Durable Functions monitoring is performed with
 
 %
 
-- Azure Application Insights
+Azure Application Insights
+
 ##
 
-Logic Apps moonitoring:
+Logic Apps monitoring:
 
-- `_____`
-- `_____`
-- `_____`
+- Azure `_____`
+- Azure `_____` logs
+- Microsoft `_____` for Cloud
 
 %
 
-- Azure portal
-- Azure Monitor logs
-- Microsoft Defender for Cloud
+- Azure **portal**
+- Azure **Monitor** logs
+- Microsoft **Defender** for Cloud
 
 ##
 
-Durable Functions management:
+Durable Functions management can be performed with
 
 - `_____`
 - `_____`
@@ -329,7 +322,7 @@ Durable Functions management:
 
 ##
 
-Logic Apps management:
+Logic Apps management can be performed with
 
 - `_____`
 - `_____`
@@ -345,23 +338,19 @@ Logic Apps management:
 
 ##
 
-Durable Functions execution context:
-
-- `_____`
+Durable Functions execution context: can run locally or in
 
 %
 
-- Can run locally or in the cloud
+the cloud
 
 ##
 
-Logic Apps execution context:
-
-- `_____`
+Logic Apps execution context: Runs in Azure, locally, or
 
 %
 
-- Runs in Azure, locally, or on premises.
+on premises
 
 ##
 
@@ -561,11 +550,11 @@ workflow
 
 ##
 
-An Azure Logic Apps workflow can call a function in Azure Functions, and
+An Azure Logic Apps workflow can `_____` a function in Azure Functions, and vice versa
 
 %
 
-vice versa
+An Azure Logic Apps workflow can **call** a function in Azure Functions, and vice versa
 
 ##
 
